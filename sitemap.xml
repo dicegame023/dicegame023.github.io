@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2020/11/28/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</loc>
+    <loc>https://bore.vip/about/index.html</loc>
     
     <lastmod>2020-11-28</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>https://bore.vip/archives/4a17b156.html</loc>
     
     <lastmod>2020-11-28</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>https://bore.vip/archives/7a6a6b5a.html</loc>
     
     <lastmod>2020-11-28</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>https://bore.vip/categories/index.html</loc>
     
     <lastmod>2020-11-28</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2020/11/23/hello-world/</loc>
+    <loc>https://bore.vip/tags/index.html</loc>
     
-    <lastmod>2020-11-23</lastmod>
+    <lastmod>2020-11-28</lastmod>
     
   </url>
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://bore.vip/</loc>
     <lastmod>2020-11-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -46,7 +46,7 @@
 
   
   <url>
-    <loc>http://example.com/tags/testing/</loc>
+    <loc>https://bore.vip/tags/testing/</loc>
     <lastmod>2020-11-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -55,7 +55,7 @@
 
   
   <url>
-    <loc>http://example.com/categories/testing/</loc>
+    <loc>https://bore.vip/categories/testing/</loc>
     <lastmod>2020-11-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
